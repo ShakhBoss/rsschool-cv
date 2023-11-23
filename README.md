@@ -1,1 +1,1 @@
-# Markdown: [CV](https://shakhboss.github.io/rsschool-cv/)
+# Markdown: [CV](https://shakhboss.github.io/rsschool-cv/cv)
