@@ -3,7 +3,7 @@
 📞 +998 94 445 19 99  
 ✉️ shakhboztursunboev@gmail.com  
 📍 Tashkent, Uzbekistan  
-🔗 [GitHub](https://github.com/GITHUB-USERNAME)
+🔗 [GitHub](https://github.com/ShakhBoss)
 
 ---
 
