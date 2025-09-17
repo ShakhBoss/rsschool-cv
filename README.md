@@ -4,7 +4,7 @@
 
 My CV is available at the following link:
 
-👉 [Open CV](https://ShakhBoss.github.io/rsschool-cv1/cv)
+👉 [Open CV](https://shakhboss.github.io/rsschool-cv1/cv)
 
 ---
 
